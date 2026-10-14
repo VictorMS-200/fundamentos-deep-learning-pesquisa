@@ -22,6 +22,7 @@ Abaixo está o cronograma de módulos do curso, acompanhado do meu status atual 
 
 ## 📂 Organização do Repositório
 
+* `/Dados/`: Contém os dados de entrada e saída dos notebooks, incluindo arquivos de referência para comparação.
 * `/modulo_1_python/`: Exercícios de nivelamento em Python para análise de dados.
 * `/modulo_2_machine_learning/`: Códigos e implementações de introdução aos modelos de aprendizagem de máquina.
 * `/modulo_3_deep_learning/`: Construção e avaliação de redes neurais (MLP, etc.) para classificação e segmentação.
