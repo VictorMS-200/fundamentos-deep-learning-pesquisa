@@ -8,11 +8,10 @@ O objetivo principal é o processamento e a análise de dados e imagens reais, c
 
 Abaixo está o cronograma de módulos do curso, acompanhado do meu status atual de acompanhamento:
 
-* **Módulo 1:** Apresentação do curso[cite: 4] *(Concluído)*
-* **Módulo 2:** Fundamentos de Python para Ciência de Dados[cite: 4] *(Concluído)*
-* **Módulo 3:** Introdução à Aprendizagem de Máquina[cite: 4]  *(Concluído)*
-* **Módulo 4:** Fundamentos de Classificação com Aprendizagem Profunda / Fundamentos de Segmentação com Aprendizagem Profunda[cite: 4] 🔜 *(Em andamento)*
-* **Módulo 5:** Desenvolvimento de Miniprojetos com Modelos de Classificação e Segmentação / Apresentação Pública dos Projetos e Avaliação das Atividades[cite: 4] 🔜 *(Em breve)*
+* **Módulo 1:** Fundamentos de Python para Ciência de Dados *(Concluído)*
+* **Módulo 2:** Introdução à Aprendizagem de Máquina *(Concluído)*
+* **Módulo 3:** Fundamentos de Classificação com Aprendizagem Profunda / Fundamentos de Segmentação com Aprendizagem Profunda *(Em andamento)*
+* **Módulo 4:** Desenvolvimento de Miniprojetos com Modelos de Classificação e Segmentação *(Em breve)*
 
 ## 🛠️ Tecnologias Utilizadas
 
