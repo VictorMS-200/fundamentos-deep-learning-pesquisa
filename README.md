@@ -11,7 +11,7 @@ Abaixo está o cronograma de módulos do curso, acompanhado do meu status atual 
 * **Módulo 1:** Fundamentos de Python para Ciência de Dados *(Concluído)*
 * **Módulo 2:** Introdução à Aprendizagem de Máquina *(Concluído)*
 * **Módulo 3:** Fundamentos de Classificação com Aprendizagem Profunda / Fundamentos de Segmentação com Aprendizagem Profunda *(Em andamento)*
-* **Módulo 4:** Desenvolvimento de Miniprojetos com Modelos de Classificação e Segmentação *(Em breve)*
+* **Módulo 4:** Desenvolvimento de Miniprojetos com Modelos de Classificação e Segmentação
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -22,13 +22,15 @@ Abaixo está o cronograma de módulos do curso, acompanhado do meu status atual 
 
 ## 📂 Organização do Repositório
 
-* `/modulo_2_python/`: Exercícios de nivelamento em Python para análise de dados.
-* `/modulo_3_machine_learning/`: Códigos e implementações de introdução aos modelos de aprendizagem de máquina.
-* `/modulo_4_deep_learning/`: Construção e avaliação de redes neurais (MLP, etc.) para classificação e segmentação.
-* *(Em breve)* `/modulo_5_projeto_final/`: Miniprojeto aplicado.
+* `/modulo_1_python/`: Exercícios de nivelamento em Python para análise de dados.
+* `/modulo_2_machine_learning/`: Códigos e implementações de introdução aos modelos de aprendizagem de máquina.
+* `/modulo_3_deep_learning/`: Construção e avaliação de redes neurais (MLP, etc.) para classificação e segmentação.
+* `/modulo_4_projeto_final/`: Miniprojeto aplicado.
 
 ## ⚠️ Direitos Autorais e Autoria
 
 **Os arquivos originais de notebook (Google Colab) e materiais didáticos base disponibilizados para as aulas são de direito e propriedade intelectual exclusiva do LIPAI**, laboratório que criou e disponibiliza este curso de extensão na faculdade. 
 
 Os artefatos e trechos de código adicionados a este repositório representam exclusivamente as minhas resoluções de exercícios, anotações de estudo e implementações práticas desenvolvidas durante o acompanhamento do curso, com o intuito de documentar meu aprendizado.
+
+*OBS: os nomes dos arquivos e nos notebooks estão com o número do módulo um número a cima do que foi proposto aqui no repositório, pois no curso, o módulo 1 foi uma introdução dos participantes, e o curso começou efetivamente no módulo 2, que é o módulo de nivelamento em Python. Portanto, o módulo 2 do curso corresponde ao módulo 1 deste repositório, e assim por diante.*
